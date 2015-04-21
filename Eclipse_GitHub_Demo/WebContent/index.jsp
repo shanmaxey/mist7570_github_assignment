@@ -31,6 +31,10 @@ Instructions:
   <td>Craig</td>
   <td>P</td>
 </tr>
+<tr>
+  <td>Shanterria</td>
+  <td>M</td>
+</tr>
 </table>
 
 </body>
